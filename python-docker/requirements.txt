@@ -49,7 +49,6 @@ fire==0.2.1
 Flask==1.0.2
 Flask-Cors==3.0.8
 future==0.18.2
-gdb==0.0.1
 googleapis-common-protos==1.53.0
 googlemaps==4.2.0
 grpcio==1.36.1
